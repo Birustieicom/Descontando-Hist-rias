@@ -1,0 +1,79 @@
+body {
+    background-color: #6f847f;
+}
+
+main {
+    background-color: #84a49c;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.bdf {
+    background-color: #548579;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+header {
+    background-color: #849c9c;
+    margin-bottom: 10px;
+}
+
+.a {
+    background-color: #849c9c;
+    width: 40px;
+    height: 40px;
+    color: #849c9c;
+}
+
+footer {
+    background-color: #849c9c;
+    margin-top: 10px;
+}
+
+.descricao {
+    background-color: rgba(0, 47, 255, 0.158);
+    width: 800px;
+    height: 60px;
+    padding-bottom: 2%;
+    padding-top: 0.01%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+table, tr, th {
+    border: solid 4px;
+    color: #0c3d39;
+}
+
+.imagens,
+.personagens,
+.sessoes {
+    background-color: #0c3d39;
+    color: white;
+    width: 150px;
+    height: 40px;
+    margin-bottom: 2%;
+    margin-top: 0.01%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.imagens:hover,
+.personagens:hover,
+.sessoes:hover {
+    transition: ease;
+    transition-duration: 1s;
+    transform: scale(1.1);
+}
+
+button.imagens,
+button.personagens,
+button.sessoes {
+    margin-top: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 50px;
+}

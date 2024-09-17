@@ -1,0 +1,43 @@
+img {
+    border-radius: 50%;
+    transform: scale(0.8);
+}
+
+.Sarah:hover,
+.DG:hover,
+.Matheus:hover,
+.Ash:hover,
+.Rafa:hover {
+    transition: ease;
+    transition-duration: 1.5s;
+    transform: scale(1.1);
+}
+
+.jogadores {  
+    margin-bottom: 5%;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.Sarah,
+.DG,
+.Matheus {
+    background-color: #0c3d395e;
+    color: black;
+    border-radius: 10%;
+}
+
+.Ash,
+.Rafa {
+    background-color: #ff00005e;
+    color: black;
+    border-radius: 10%;
+}
+
+h5 {
+    color: rgb(71, 7, 7);
+}
