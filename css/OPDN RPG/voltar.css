@@ -1,5 +1,19 @@
 button.voltar {
-   display: flex;
-   flex-direction: row;
-   justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #0c3d39;
+    color: white;
+    width: 150px;
+    height: 40px;
+    margin-bottom: 2%;
+    margin-top: 0.01%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+button.voltar.hover {
+    transition: ease;
+    transition-duration: 1s;
+    transform: scale(1.1);
 }
