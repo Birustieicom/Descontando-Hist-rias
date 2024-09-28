@@ -50,7 +50,8 @@ table, tr, th {
 
 .imagens,
 .personagens,
-.sessoes {
+.sessoes,
+.npcs {
     background-color: #0c3d39;
     color: white;
     width: 150px;
@@ -63,7 +64,8 @@ table, tr, th {
 
 .imagens:hover,
 .personagens:hover,
-.sessoes:hover {
+.sessoes:hover,
+.npcs:hover {
     transition: ease;
     transition-duration: 1s;
     transform: scale(1.1);
@@ -71,7 +73,8 @@ table, tr, th {
 
 button.imagens,
 button.personagens,
-button.sessoes {
+button.sessoes,
+button.npcs {
     margin-top: 25px;
     margin-left: 10px;
     margin-right: 10px;
