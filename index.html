@@ -14,11 +14,23 @@
 
         body {
             display: flex;
+            flex-direction: column;
             justify-content: center;
             align-items: center;
             height: 100vh;
             font-family: Arial, sans-serif;
             background-color: #f5f5f5;
+        }
+
+        header {
+            position: absolute;
+            top: 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 2em;
+            color: #333;
         }
 
         a {
@@ -50,9 +62,14 @@
 </head>
 <body>
 
+    <header>
+        <h1>Descontando Histórias</h1>
+        <h3>Coleção de RPG's</h3>
+    </header>
+
     <a href="pages/OPDN RPG/paginainicialOPDN.html">
         <figure>
-            <img src="img/OPDN RPG/Logo.png" alt="Logo de OPDN RPG">
+            <img src="img/OPDN RPG/Logo.png" alt="Logo do OPDN RPG">
             <figcaption class="opdn">OPDN RPG</figcaption>
         </figure>
     </a>
