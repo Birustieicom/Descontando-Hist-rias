@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Miquelme - Website OPDN RPG</title>
+
+    <link rel="stylesheet" href="../../../css/OPDN RPG/style.css">
+    <link rel="stylesheet" href="../../../css/OPDN RPG/voltar.css">
+    <link rel="website icon" type="png" href="../../../img/OPDN RPG/icon.png">
+
+</head>
+<body>
+
+    <header style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;"><a href="../personagens.html"><button class="voltar">Voltar</button></a><div class="pt"><h1>Misha</h1></div><div class="a"></div></header>
+
+    <center>
+        <main>
+
+            <img src="../../../img/OPDN RPG/Misha2.png" style="border-radius: 50%;"><br>
+            <div class="nomep" style="background-color: rgba(127, 255, 212, 0.404); width: 200px; height: 55px;">
+                <h2>Miquelme</h2>
+            </div><br>
+            <div class="fichap" style="background-color: rgba(4, 65, 44, 0.219); padding-top: 1px;  padding-bottom: 1px; width: 500px; padding-left: 10px; padding-right: 10px;">
+                <p><strong>Aparência: </strong>Ruivo, Olhos Azuis Acinzentados, Cicatriz no Rosto.</p>
+                <p><strong>Idade: </strong>21 anos</p>
+                <p><strong>Profissão: </strong>Floricultor e Palestrante de Biologia em uma universidade.</p>
+                <p><strong>Medos: </strong>Circos, Palhaços e Hospitais.</p>
+                <p><strong>Hobbies: </strong>Estudar sobre biologia e história, fotografar, cozinhar e jardinagem.</p>
+                <p><strong>Pontos Fortes: </strong>Sabe falar formalmente e profissionalmente, bom conhecimento histórico e biológico.</p>
+                <p><strong>Pontos Fracos:</strong> Muito quieto, antipático</p>
+                <p><strong>Comida Favorita: </strong>Batata Recheada</p>
+                <p><strong>História:</strong></p>
+                <p>Misha veio da Suíça, nasceu e foi criado ate os 3 meses pois nascera intersexo (hermafrodita) e seus pais nao o queriam. Seus pais adotivos o pegaram e trouxeram para (onde é que o rpg se passa), onde crescera de forma doce, atenciosa e vivera uma vida boa com apenas seus pais adotivos. Trabalhava em uma livraria, mas fora despedido, nesse, chegando em casa, se deparou com seus pais mortos, mutilados e pendurados em seu armario. Depois disso nunca mais fora o mesmo. Herdou a floricultura de seus pais, nunca mais sorriu e atualmente vive assim, com 2 cachorros e um gato, vendendo flores e dando palestras em universidades.</p>
+            </div><br>
+
+            <h2>Imagens de Misha</h2>
+            <figure>
+                    <img src="../../../img/OPDN RPG/Misha1.png">
+                    <img src="../../../img/OPDN RPG/Misha2.png">
+                    <img src="../../../img/OPDN RPG/Misha3.png">
+            </figure>
+
+
+        </main>
+    </center>
+
+</body>
+</html>
