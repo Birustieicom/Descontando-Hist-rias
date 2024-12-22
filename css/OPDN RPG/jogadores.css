@@ -6,7 +6,6 @@ img {
 .Sarah:hover,
 .DG:hover,
 .Matheus:hover,
-.Ash:hover,
 .Rafa:hover,
 .Akira:hover {
     transition: ease;
@@ -27,18 +26,12 @@ img {
 .Sarah,
 .DG,
 .Matheus,
-.Akira {
+.Akira,
+.Rafa {
     background-color: #0c3d395e;
     color: black;
     border-radius: 10%;
-}
-
-.Ash,
-.Rafa {
-    background-color: #ff00005e;
-    color: black;
-    border-radius: 10%;
-}
+}
 
 h5 {
     color: rgb(71, 7, 7);
