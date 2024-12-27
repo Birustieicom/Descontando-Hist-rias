@@ -3,11 +3,12 @@ img {
     transform: scale(0.8);
 }
 
-.Sarah:hover,
+.Sara:hover,
 .DG:hover,
 .Matheus:hover,
 .Rafa:hover,
-.Akira:hover {
+.Akira:hover,
+.Kira:hover {
     transition: ease;
     transition-duration: 1.5s;
     transform: scale(1.1);
@@ -23,11 +24,12 @@ img {
     justify-content: space-evenly;
 }
 
-.Sarah,
+.Sara,
 .DG,
 .Matheus,
 .Akira,
-.Rafa {
+.Rafa,
+.Kira {
     background-color: #0c3d395e;
     color: black;
     border-radius: 10%;
