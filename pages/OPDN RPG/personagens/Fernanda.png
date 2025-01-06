@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fernanda - Website OPDN RPG</title>
+
+    <link rel="stylesheet" href="../../../css/OPDN RPG/style.css">
+    <link rel="stylesheet" href="../../../css/OPDN RPG/voltar.css">
+    <link rel="website icon" type="png" href="../../../img/OPDN RPG/icon.png">
+
+</head>
+<body>
+
+    <header style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;"><a href="../personagens.html"><button class="voltar">Voltar</button></a><div class="pt"><h1>Fernanda</h1></div><div class="a"></div></header>
+
+    <center>
+        <main>
+
+            <img src="../../../img/OPDN RPG/Fernanda.png" style="border-radius: 50%;"><br>
+            <div class="nomep" style="background-color: rgba(127, 255, 212, 0.404); width: 200px; height: 25px;">
+                <h2>Fernanda Cruz</h2>
+            </div><br>
+            <div class="fichap" style="background-color: rgba(4, 65, 44, 0.219); padding-top: 1px;  padding-bottom: 1px; width: 500px; padding-left: 10px; padding-right: 10px;">
+                <p><strong>Jogadora: </strong>Sarah</p>
+                <br>
+                <p><strong>Aparência: </strong>cabelos ondulado médio castanhos,  altura entre 1.70, tem piercing na orelha, jaqueta verde militar e regata preta por baixo, calça jeans cargo escura e tênis all star preto.</p>
+                <p><strong>Idade: </strong>20 anos</p>
+                <p><strong>Profissão: </strong>Lenhadora</p>
+                <p><strong>Medos: </strong>Ver os pais tendo intercurso</p>
+                <p><strong>Hobbies: </strong>Tocar guitarra e outros instrumentos</p>
+                <p><strong>Pontos Fortes: </strong>Força, Luta e Armas</p>
+                <p><strong>Pontos Fracos:</strong> Tocar no assunto sobre seus pais e tiro no coração, até porque todo mundo morre com isso kk</p>
+                <p><strong>Comida Favorita: </strong> Peixe</p>
+                <p><strong>História:</strong></p>
+                <p>Meus pais eram lenhadores, isso foi passado de geração em geração...Sou a neta mais nova e com isso vou ser a última a receber o negócio da família. 
+     Meus pais me ensinaram como funcionava desde pequena, então sempre tive força nos braços e soube manejar armas afiadas(facas, machados, arco e flecha e etc)
+     Meus pais sempre me contavam histórias de magia e fantasia, sempre acreditei que  "a magia é real, basta acreditar nela"
+    Mais depois da morte dos meus pais minha vida virou de ponta cabeça e eu deixei de acreditar nessas coisas mesmo tendo herdado seu caderninho de feitiço.
+  "Como eles morreram?"
+  Quando eu tinha 10 anos, num acidente, estavam transportando os troncos de madeira num caminhão, acabou que ele virou e foi um grave acidente, meus pais não resistiram e faleceram.
+   Bom desde a morte deles, fui criada pela minha tia Lisa. Ela além de me criar, me ensinou luta e como usar armas de tiro e me ajudou na mira.
+   Com 16 anos sai de casa e fui para um dos locais de negócios da família, comprei minha casa e minha moto, atualmente estou indo para uma viagem na minha antiga cidade, onde aprendi sobre histórias e lendas, sinceramente não acredito nisso.. Estou indo apenas pela minha tia.</p>
+            </div><br>
+
+            <h2>Imagens de Kira</h2>
+            <figure>
+                    <img src="../../../img/OPDN RPG/Kira1.png">
+                    <img src="../../../img/OPDN RPG/Kira.jpeg">
+                    <img src="../../../img/OPDN RPG/FasesdaKira.jpeg">
+            </figure>
+
+
+        </main>
+    </center>
+
+</body>
+</html>
