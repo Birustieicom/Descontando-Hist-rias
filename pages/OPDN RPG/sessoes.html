@@ -11,18 +11,31 @@
 
 </head>
 <body>
-    
-    <header style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;"><a href="paginainicialOPDN.html"><button class="voltar">Voltar</button></a><div class="pt"><h1>Sessões</h1></div><div class="a"></div></header>
+
+    <header style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
+        <a href="paginainicialOPDN.html"><button class="voltar">Voltar</button></a>
+        <div class="pt"><h1>Sessões</h1></div>
+        <div class="a"></div>
+    </header>
 
     <center>
         <main>
-
             <div class="sessoes" style="background-color: rgba(4, 65, 44, 0.219); padding-top: 0.5px;  padding-bottom: 1px; width: 500px; padding-left: 10px; padding-right: 10px;">
                 <h4>1ª Sessão - ??/??/2025</h4>
-                <p>teste de descrição</p>
+                <p>Sessão Ainda Não Realizada</p>
             </div>
         </main>
     </center>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const sessoesDiv = document.querySelector(".sessoes");
+
+            sessoesDiv.addEventListener("click", function () {
+                sessoesDiv.classList.toggle("show"); // Adiciona ou remove a classe 'show'
+            });
+        });
+    </script>
 
 </body>
 </html>
