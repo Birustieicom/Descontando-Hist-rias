@@ -82,3 +82,11 @@ button.npcs {
     margin-right: 10px;
     border-radius: 50px;
 }
+
+.sessoes p {
+    display: none;
+}
+
+.sessoes.show p {
+    display: block;
+}
