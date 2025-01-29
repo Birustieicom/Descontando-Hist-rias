@@ -1,0 +1,7 @@
+.mascara {
+    opacity: 0%;
+}
+
+.mascara:hover {
+    opacity: 100%;
+}
