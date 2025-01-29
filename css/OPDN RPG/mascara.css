@@ -4,4 +4,6 @@
 
 .mascara:hover {
     opacity: 100%;
+    transition: ease;
+    transition-duration: 1.5s;
 }
